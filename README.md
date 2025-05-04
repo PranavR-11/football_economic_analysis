@@ -1,5 +1,4 @@
-# ⚽ The Price of Performance  
-## How Output, Opportunity, and Origin Shape Player Value in Elite Football  
+# The Price of Performance: How Output, Opportunity, and Origin Shape Player Value in Elite Football  
 **Pranav Rao Rebala**  
 ---
 
